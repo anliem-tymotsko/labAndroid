@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App title and fragment titles -->
+    <string name="app_name">My RESTAURANT</string>
+    <string name="sleep_tracker_fragment">SleepTrackerFragment</string>
+    <string name="sleep_quality_fragment">SleepQualityFragment</string>
+
+    <!-- Button labels -->
+    <string name="start">start Booking</string>
+    <string name="stop">Choose time</string>
+    <string name="clear">Clear</string>
+
+    <!-- contentDescription strings for quality icons -->
+    <string name="quality_0">8.00</string>
+    <string name="quality_1">12.00</string>
+    <string name="quality_2">18.00</string>
+
+    <!-- Output to TextView styled with a little HTML -->
+    <string name="title"><![CDATA[<h3>HERE IS YOUR BOOKED DATA</h3>]]></string>
+    <string name="start_time"><![CDATA[<b>Start:</b>]]></string>
+    <string name="end_time"><![CDATA[<b>End:</b>]]></string>
+    <string name="quality"><![CDATA[<b>TIME:</b>]]></string>
+    <string name="hours_slept"><![CDATA[<b>Hours:Minutes:Seconds</b>]]></string>
+
+    <!-- Sleep quality strings -->
+    <string name="how_was_hour_sleep">Choose ...</string>
+    <string name="zero_very_bad">8.00</string>
+    <string name="one_poor">12.00</string>
+    <string name="two_soso">18.00</string>
+    <string name="three_ok">OK</string>
+
+
+    <!-- Toast to play after Clear button has been pressed -->
+    <string name="cleared_message">All your data is gone forever.</string>
+    <string name="header_text">Sleep Results</string>
+    <string name="close">Close</string>
+    <string name="minutes_length">%d minutes on %s</string>
+    <string name="hours_length">%d hours on %s</string>
+    <string name="seconds_length">booked on %s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="show_all">Show all</string>
+    <string name="show_rent">dessert</string>
+    <string name="show_buy">coctail</string>
+    <string name="type_rent">dessert</string>
+    <string name="type_sale">coctail</string>
+    <string name="display_type"> %s</string>
+    <string name="display_price_monthly_rental">$%,.0f/ 1 portion</string>
+    <string name="display_price">$%,.0f</string>
+
+</resources>
